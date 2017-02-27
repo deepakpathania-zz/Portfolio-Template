@@ -104,6 +104,7 @@
 				.card {
 						max-width: 100%;
 						margin-top: 5%;
+						margin-left: 0%;
 				}
 				.left {
 					display: none;
